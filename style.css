@@ -1,0 +1,13 @@
+/* task 1*/
+/* styleing for index.html */
+.heading {
+  text-align: center;
+}
+.fruits {
+  background-color: lightgray;
+  border: 1px solid black;
+}
+.fruits li {
+  font-weight: bold;
+  color: green;
+}
